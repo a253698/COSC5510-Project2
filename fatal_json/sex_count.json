@@ -1,0 +1,602 @@
+[
+  {
+    "state": "Alaska",
+    "year": 2020,
+    "male_deaths": 111,
+    "female_deaths": 60
+  },
+  {
+    "state": "Arizona",
+    "year": 2020,
+    "male_deaths": 1771,
+    "female_deaths": 641
+  },
+  {
+    "state": "Colorado",
+    "year": 2020,
+    "male_deaths": 944,
+    "female_deaths": 385
+  },
+  {
+    "state": "Connecticut",
+    "year": 2020,
+    "male_deaths": 1032,
+    "female_deaths": 342
+  },
+  {
+    "state": "Delaware",
+    "year": 2020,
+    "male_deaths": 305,
+    "female_deaths": 141
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2020,
+    "male_deaths": 369,
+    "female_deaths": 146
+  },
+  {
+    "state": "Georgia",
+    "year": 2020,
+    "male_deaths": 1198,
+    "female_deaths": 612
+  },
+  {
+    "state": "Iowa",
+    "year": 2020,
+    "male_deaths": 223,
+    "female_deaths": 118
+  },
+  {
+    "state": "Kansas",
+    "year": 2020,
+    "male_deaths": 284,
+    "female_deaths": 146
+  },
+  {
+    "state": "Kentucky",
+    "year": 2020,
+    "male_deaths": 1428,
+    "female_deaths": 618
+  },
+  {
+    "state": "Maine",
+    "year": 2020,
+    "male_deaths": 337,
+    "female_deaths": 134
+  },
+  {
+    "state": "Maryland",
+    "year": 2020,
+    "male_deaths": 1960,
+    "female_deaths": 758
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2020,
+    "male_deaths": 1709,
+    "female_deaths": 631
+  },
+  {
+    "state": "Michigan",
+    "year": 2020,
+    "male_deaths": 1931,
+    "female_deaths": 879
+  },
+  {
+    "state": "Minnesota",
+    "year": 2020,
+    "male_deaths": 646,
+    "female_deaths": 310
+  },
+  {
+    "state": "Mississippi",
+    "year": 2020,
+    "male_deaths": 317,
+    "female_deaths": 178
+  },
+  {
+    "state": "Montana",
+    "year": 2020,
+    "male_deaths": 91,
+    "female_deaths": 32
+  },
+  {
+    "state": "Nebraska",
+    "year": 2020,
+    "male_deaths": 106,
+    "female_deaths": 56
+  },
+  {
+    "state": "Nevada",
+    "year": 2020,
+    "male_deaths": 640,
+    "female_deaths": 277
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2020,
+    "male_deaths": 263,
+    "female_deaths": 109
+  },
+  {
+    "state": "New Jersey",
+    "year": 2020,
+    "male_deaths": 2154,
+    "female_deaths": 727
+  },
+  {
+    "state": "New Mexico",
+    "year": 2020,
+    "male_deaths": 436,
+    "female_deaths": 192
+  },
+  {
+    "state": "North Carolina",
+    "year": 2020,
+    "male_deaths": 2149,
+    "female_deaths": 958
+  },
+  {
+    "state": "Ohio",
+    "year": 2020,
+    "male_deaths": 3528,
+    "female_deaths": 1626
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2020,
+    "male_deaths": 513,
+    "female_deaths": 275
+  },
+  {
+    "state": "Oregon",
+    "year": 2020,
+    "male_deaths": 486,
+    "female_deaths": 215
+  },
+  {
+    "state": "Overall",
+    "year": 2020,
+    "male_deaths": 33728,
+    "female_deaths": 14504
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2020,
+    "male_deaths": 3619,
+    "female_deaths": 1549
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2020,
+    "male_deaths": 290,
+    "female_deaths": 99
+  },
+  {
+    "state": "South Dakota",
+    "year": 2020,
+    "male_deaths": 40,
+    "female_deaths": 23
+  },
+  {
+    "state": "Tennessee",
+    "year": 2020,
+    "male_deaths": 1975,
+    "female_deaths": 996
+  },
+  {
+    "state": "Utah",
+    "year": 2020,
+    "male_deaths": 331,
+    "female_deaths": 205
+  },
+  {
+    "state": "Vermont",
+    "year": 2020,
+    "male_deaths": 125,
+    "female_deaths": 52
+  },
+  {
+    "state": "Virginia",
+    "year": 2020,
+    "male_deaths": 1481,
+    "female_deaths": 642
+  },
+  {
+    "state": "West Virginia",
+    "year": 2020,
+    "male_deaths": 936,
+    "female_deaths": 372
+  },
+  {
+    "state": "Alaska",
+    "year": 2021,
+    "male_deaths": 170,
+    "female_deaths": 107
+  },
+  {
+    "state": "Arizona",
+    "year": 2021,
+    "male_deaths": 1973,
+    "female_deaths": 714
+  },
+  {
+    "state": "Arkansas",
+    "year": 2021,
+    "male_deaths": 361,
+    "female_deaths": 195
+  },
+  {
+    "state": "Colorado",
+    "year": 2021,
+    "male_deaths": 1209,
+    "female_deaths": 503
+  },
+  {
+    "state": "Connecticut",
+    "year": 2021,
+    "male_deaths": 1116,
+    "female_deaths": 414
+  },
+  {
+    "state": "Delaware",
+    "year": 2021,
+    "male_deaths": 348,
+    "female_deaths": 163
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2021,
+    "male_deaths": 391,
+    "female_deaths": 150
+  },
+  {
+    "state": "Georgia",
+    "year": 2021,
+    "male_deaths": 1628,
+    "female_deaths": 743
+  },
+  {
+    "state": "Hawaii",
+    "year": 2021,
+    "male_deaths": 194,
+    "female_deaths": 62
+  },
+  {
+    "state": "Iowa",
+    "year": 2021,
+    "male_deaths": 259,
+    "female_deaths": 141
+  },
+  {
+    "state": "Kansas",
+    "year": 2021,
+    "male_deaths": 454,
+    "female_deaths": 219
+  },
+  {
+    "state": "Kentucky",
+    "year": 2021,
+    "male_deaths": 1558,
+    "female_deaths": 731
+  },
+  {
+    "state": "Maine",
+    "year": 2021,
+    "male_deaths": 438,
+    "female_deaths": 169
+  },
+  {
+    "state": "Maryland",
+    "year": 2021,
+    "male_deaths": 1987,
+    "female_deaths": 767
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2021,
+    "male_deaths": 1860,
+    "female_deaths": 681
+  },
+  {
+    "state": "Michigan",
+    "year": 2021,
+    "male_deaths": 2025,
+    "female_deaths": 937
+  },
+  {
+    "state": "Minnesota",
+    "year": 2021,
+    "male_deaths": 861,
+    "female_deaths": 379
+  },
+  {
+    "state": "Nebraska",
+    "year": 2021,
+    "male_deaths": 116,
+    "female_deaths": 72
+  },
+  {
+    "state": "Nevada",
+    "year": 2021,
+    "male_deaths": 660,
+    "female_deaths": 273
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2021,
+    "male_deaths": 287,
+    "female_deaths": 134
+  },
+  {
+    "state": "New Jersey",
+    "year": 2021,
+    "male_deaths": 2264,
+    "female_deaths": 830
+  },
+  {
+    "state": "New Mexico",
+    "year": 2021,
+    "male_deaths": 689,
+    "female_deaths": 288
+  },
+  {
+    "state": "North Carolina",
+    "year": 2021,
+    "male_deaths": 2686,
+    "female_deaths": 1161
+  },
+  {
+    "state": "Ohio",
+    "year": 2021,
+    "male_deaths": 3764,
+    "female_deaths": 1647
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2021,
+    "male_deaths": 686,
+    "female_deaths": 328
+  },
+  {
+    "state": "Oregon",
+    "year": 2021,
+    "male_deaths": 774,
+    "female_deaths": 309
+  },
+  {
+    "state": "Overall",
+    "year": 2021,
+    "male_deaths": 36221,
+    "female_deaths": 15332
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2021,
+    "male_deaths": 3734,
+    "female_deaths": 1602
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2021,
+    "male_deaths": 304,
+    "female_deaths": 144
+  },
+  {
+    "state": "South Dakota",
+    "year": 2021,
+    "male_deaths": 48,
+    "female_deaths": 34
+  },
+  {
+    "state": "Utah",
+    "year": 2021,
+    "male_deaths": 380,
+    "female_deaths": 208
+  },
+  {
+    "state": "Vermont",
+    "year": 2021,
+    "male_deaths": 166,
+    "female_deaths": 72
+  },
+  {
+    "state": "Virginia",
+    "year": 2021,
+    "male_deaths": 1796,
+    "female_deaths": 732
+  },
+  {
+    "state": "West Virginia",
+    "year": 2021,
+    "male_deaths": 1035,
+    "female_deaths": 423
+  },
+  {
+    "state": "Alaska",
+    "year": 2022,
+    "male_deaths": 164,
+    "female_deaths": 92
+  },
+  {
+    "state": "Arizona",
+    "year": 2022,
+    "male_deaths": 2003,
+    "female_deaths": 600
+  },
+  {
+    "state": "Arkansas",
+    "year": 2022,
+    "male_deaths": 328,
+    "female_deaths": 200
+  },
+  {
+    "state": "Colorado",
+    "year": 2022,
+    "male_deaths": 1163,
+    "female_deaths": 499
+  },
+  {
+    "state": "Connecticut",
+    "year": 2022,
+    "male_deaths": 1077,
+    "female_deaths": 387
+  },
+  {
+    "state": "Delaware",
+    "year": 2022,
+    "male_deaths": 380,
+    "female_deaths": 156
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2022,
+    "male_deaths": 426,
+    "female_deaths": 164
+  },
+  {
+    "state": "Georgia",
+    "year": 2022,
+    "male_deaths": 1763,
+    "female_deaths": 792
+  },
+  {
+    "state": "Iowa",
+    "year": 2022,
+    "male_deaths": 272,
+    "female_deaths": 112
+  },
+  {
+    "state": "Kansas",
+    "year": 2022,
+    "male_deaths": 501,
+    "female_deaths": 238
+  },
+  {
+    "state": "Kentucky",
+    "year": 2022,
+    "male_deaths": 1492,
+    "female_deaths": 720
+  },
+  {
+    "state": "Maine",
+    "year": 2022,
+    "male_deaths": 505,
+    "female_deaths": 177
+  },
+  {
+    "state": "Maryland",
+    "year": 2022,
+    "male_deaths": 1773,
+    "female_deaths": 743
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2022,
+    "male_deaths": 1911,
+    "female_deaths": 717
+  },
+  {
+    "state": "Minnesota",
+    "year": 2022,
+    "male_deaths": 928,
+    "female_deaths": 363
+  },
+  {
+    "state": "Mississippi",
+    "year": 2022,
+    "male_deaths": 448,
+    "female_deaths": 213
+  },
+  {
+    "state": "Missouri",
+    "year": 2022,
+    "male_deaths": 1402,
+    "female_deaths": 635
+  },
+  {
+    "state": "Nebraska",
+    "year": 2022,
+    "male_deaths": 109,
+    "female_deaths": 66
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2022,
+    "male_deaths": 319,
+    "female_deaths": 125
+  },
+  {
+    "state": "New Jersey",
+    "year": 2022,
+    "male_deaths": 2296,
+    "female_deaths": 768
+  },
+  {
+    "state": "North Carolina",
+    "year": 2022,
+    "male_deaths": 2789,
+    "female_deaths": 1213
+  },
+  {
+    "state": "Ohio",
+    "year": 2022,
+    "male_deaths": 3521,
+    "female_deaths": 1616
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2022,
+    "male_deaths": 881,
+    "female_deaths": 417
+  },
+  {
+    "state": "Oregon",
+    "year": 2022,
+    "male_deaths": 936,
+    "female_deaths": 352
+  },
+  {
+    "state": "Overall",
+    "year": 2022,
+    "male_deaths": 36237,
+    "female_deaths": 15197
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2022,
+    "male_deaths": 3586,
+    "female_deaths": 1544
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2022,
+    "male_deaths": 310,
+    "female_deaths": 123
+  },
+  {
+    "state": "Tennessee",
+    "year": 2022,
+    "male_deaths": 2630,
+    "female_deaths": 1171
+  },
+  {
+    "state": "Utah",
+    "year": 2022,
+    "male_deaths": 364,
+    "female_deaths": 213
+  },
+  {
+    "state": "Vermont",
+    "year": 2022,
+    "male_deaths": 177,
+    "female_deaths": 82
+  },
+  {
+    "state": "Virginia",
+    "year": 2022,
+    "male_deaths": 1783,
+    "female_deaths": 699
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "state": "Alaska",
+    "year": 2020,
+    "opioids_stim_deaths": 60,
+    "opioids_nostim_deaths": 51,
+    "stim_noopioids_deaths": 55,
+    "noopioids_nostim_deaths": 5
+  },
+  {
+    "state": "Arizona",
+    "year": 2020,
+    "opioids_stim_deaths": 711,
+    "opioids_nostim_deaths": 1156,
+    "stim_noopioids_deaths": 489,
+    "noopioids_nostim_deaths": 56
+  },
+  {
+    "state": "Colorado",
+    "year": 2020,
+    "opioids_stim_deaths": 515,
+    "opioids_nostim_deaths": 461,
+    "stim_noopioids_deaths": 291,
+    "noopioids_nostim_deaths": 62
+  },
+  {
+    "state": "Connecticut",
+    "year": 2020,
+    "opioids_stim_deaths": 513,
+    "opioids_nostim_deaths": 765,
+    "stim_noopioids_deaths": 57,
+    "noopioids_nostim_deaths": 39
+  },
+  {
+    "state": "Delaware",
+    "year": 2020,
+    "opioids_stim_deaths": 172,
+    "opioids_nostim_deaths": 245,
+    "stim_noopioids_deaths": 23,
+    "noopioids_nostim_deaths": 6
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2020,
+    "opioids_stim_deaths": 155,
+    "opioids_nostim_deaths": 260,
+    "stim_noopioids_deaths": 46,
+    "noopioids_nostim_deaths": 54
+  },
+  {
+    "state": "Georgia",
+    "year": 2020,
+    "opioids_stim_deaths": 537,
+    "opioids_nostim_deaths": 721,
+    "stim_noopioids_deaths": 419,
+    "noopioids_nostim_deaths": 133
+  },
+  {
+    "state": "Iowa",
+    "year": 2020,
+    "opioids_stim_deaths": 64,
+    "opioids_nostim_deaths": 130,
+    "stim_noopioids_deaths": 110,
+    "noopioids_nostim_deaths": 37
+  },
+  {
+    "state": "Kansas",
+    "year": 2020,
+    "opioids_stim_deaths": 76,
+    "opioids_nostim_deaths": 165,
+    "stim_noopioids_deaths": 146,
+    "noopioids_nostim_deaths": 43
+  },
+  {
+    "state": "Kentucky",
+    "year": 2020,
+    "opioids_stim_deaths": 709,
+    "opioids_nostim_deaths": 1036,
+    "stim_noopioids_deaths": 213,
+    "noopioids_nostim_deaths": 88
+  },
+  {
+    "state": "Maine",
+    "year": 2020,
+    "opioids_stim_deaths": 191,
+    "opioids_nostim_deaths": 214,
+    "stim_noopioids_deaths": 29,
+    "noopioids_nostim_deaths": 37
+  },
+  {
+    "state": "Maryland",
+    "year": 2020,
+    "opioids_stim_deaths": 963,
+    "opioids_nostim_deaths": 1562,
+    "stim_noopioids_deaths": 96,
+    "noopioids_nostim_deaths": 97
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2020,
+    "opioids_stim_deaths": 992,
+    "opioids_nostim_deaths": 1150,
+    "stim_noopioids_deaths": 156,
+    "noopioids_nostim_deaths": 42
+  },
+  {
+    "state": "Michigan",
+    "year": 2020,
+    "opioids_stim_deaths": 963,
+    "opioids_nostim_deaths": 1408,
+    "stim_noopioids_deaths": 268,
+    "noopioids_nostim_deaths": 171
+  },
+  {
+    "state": "Minnesota",
+    "year": 2020,
+    "opioids_stim_deaths": 293,
+    "opioids_nostim_deaths": 448,
+    "stim_noopioids_deaths": 172,
+    "noopioids_nostim_deaths": 43
+  },
+  {
+    "state": "Mississippi",
+    "year": 2020,
+    "opioids_stim_deaths": 133,
+    "opioids_nostim_deaths": 206,
+    "stim_noopioids_deaths": 102,
+    "noopioids_nostim_deaths": 54
+  },
+  {
+    "state": "Montana",
+    "year": 2020,
+    "opioids_stim_deaths": 29,
+    "opioids_nostim_deaths": 43,
+    "stim_noopioids_deaths": 38,
+    "noopioids_nostim_deaths": 13
+  },
+  {
+    "state": "Nebraska",
+    "year": 2020,
+    "opioids_stim_deaths": 28,
+    "opioids_nostim_deaths": 57,
+    "stim_noopioids_deaths": 42,
+    "noopioids_nostim_deaths": 35
+  },
+  {
+    "state": "Nevada",
+    "year": 2020,
+    "opioids_stim_deaths": 272,
+    "opioids_nostim_deaths": 305,
+    "stim_noopioids_deaths": 304,
+    "noopioids_nostim_deaths": 36
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2020,
+    "opioids_stim_deaths": 94,
+    "opioids_nostim_deaths": 253,
+    "stim_noopioids_deaths": 20,
+    "noopioids_nostim_deaths": 5
+  },
+  {
+    "state": "New Jersey",
+    "year": 2020,
+    "opioids_stim_deaths": 1048,
+    "opioids_nostim_deaths": 1577,
+    "stim_noopioids_deaths": 175,
+    "noopioids_nostim_deaths": 81
+  },
+  {
+    "state": "New Mexico",
+    "year": 2020,
+    "opioids_stim_deaths": 239,
+    "opioids_nostim_deaths": 226,
+    "stim_noopioids_deaths": 144,
+    "noopioids_nostim_deaths": 19
+  },
+  {
+    "state": "North Carolina",
+    "year": 2020,
+    "opioids_stim_deaths": 1250,
+    "opioids_nostim_deaths": 1451,
+    "stim_noopioids_deaths": 302,
+    "noopioids_nostim_deaths": 104
+  },
+  {
+    "state": "Ohio",
+    "year": 2020,
+    "opioids_stim_deaths": 1906,
+    "opioids_nostim_deaths": 2629,
+    "stim_noopioids_deaths": 422,
+    "noopioids_nostim_deaths": 197
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2020,
+    "opioids_stim_deaths": 118,
+    "opioids_nostim_deaths": 180,
+    "stim_noopioids_deaths": 438,
+    "noopioids_nostim_deaths": 52
+  },
+  {
+    "state": "Oregon",
+    "year": 2020,
+    "opioids_stim_deaths": 201,
+    "opioids_nostim_deaths": 271,
+    "stim_noopioids_deaths": 196,
+    "noopioids_nostim_deaths": 33
+  },
+  {
+    "state": "Overall",
+    "year": 2020,
+    "opioids_stim_deaths": 17016,
+    "opioids_nostim_deaths": 22910,
+    "stim_noopioids_deaths": 6132,
+    "noopioids_nostim_deaths": 2174
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2020,
+    "opioids_stim_deaths": 1953,
+    "opioids_nostim_deaths": 2462,
+    "stim_noopioids_deaths": 442,
+    "noopioids_nostim_deaths": 311
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2020,
+    "opioids_stim_deaths": 167,
+    "opioids_nostim_deaths": 157,
+    "stim_noopioids_deaths": 47,
+    "noopioids_nostim_deaths": 18
+  },
+  {
+    "state": "South Dakota",
+    "year": 2020,
+    "opioids_stim_deaths": 7,
+    "opioids_nostim_deaths": 28,
+    "stim_noopioids_deaths": 23,
+    "noopioids_nostim_deaths": 5
+  },
+  {
+    "state": "Tennessee",
+    "year": 2020,
+    "opioids_stim_deaths": 1045,
+    "opioids_nostim_deaths": 1350,
+    "stim_noopioids_deaths": 394,
+    "noopioids_nostim_deaths": 182
+  },
+  {
+    "state": "Utah",
+    "year": 2020,
+    "opioids_stim_deaths": 171,
+    "opioids_nostim_deaths": 220,
+    "stim_noopioids_deaths": 108,
+    "noopioids_nostim_deaths": 37
+  },
+  {
+    "state": "Vermont",
+    "year": 2020,
+    "opioids_stim_deaths": 68,
+    "opioids_nostim_deaths": 87,
+    "stim_noopioids_deaths": 14,
+    "noopioids_nostim_deaths": 8
+  },
+  {
+    "state": "Virginia",
+    "year": 2020,
+    "opioids_stim_deaths": 786,
+    "opioids_nostim_deaths": 1076,
+    "stim_noopioids_deaths": 207,
+    "noopioids_nostim_deaths": 54
+  },
+  {
+    "state": "West Virginia",
+    "year": 2020,
+    "opioids_stim_deaths": 587,
+    "opioids_nostim_deaths": 560,
+    "stim_noopioids_deaths": 144,
+    "noopioids_nostim_deaths": 17
+  },
+  {
+    "state": "Alaska",
+    "year": 2021,
+    "opioids_stim_deaths": 144,
+    "opioids_nostim_deaths": 72,
+    "stim_noopioids_deaths": 53,
+    "noopioids_nostim_deaths": 8
+  },
+  {
+    "state": "Arizona",
+    "year": 2021,
+    "opioids_stim_deaths": 933,
+    "opioids_nostim_deaths": 1063,
+    "stim_noopioids_deaths": 600,
+    "noopioids_nostim_deaths": 91
+  },
+  {
+    "state": "Arkansas",
+    "year": 2021,
+    "opioids_stim_deaths": 190,
+    "opioids_nostim_deaths": 202,
+    "stim_noopioids_deaths": 123,
+    "noopioids_nostim_deaths": 41
+  },
+  {
+    "state": "Colorado",
+    "year": 2021,
+    "opioids_stim_deaths": 670,
+    "opioids_nostim_deaths": 630,
+    "stim_noopioids_deaths": 351,
+    "noopioids_nostim_deaths": 61
+  },
+  {
+    "state": "Connecticut",
+    "year": 2021,
+    "opioids_stim_deaths": 592,
+    "opioids_nostim_deaths": 826,
+    "stim_noopioids_deaths": 77,
+    "noopioids_nostim_deaths": 35
+  },
+  {
+    "state": "Delaware",
+    "year": 2021,
+    "opioids_stim_deaths": 232,
+    "opioids_nostim_deaths": 234,
+    "stim_noopioids_deaths": 35,
+    "noopioids_nostim_deaths": 10
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2021,
+    "opioids_stim_deaths": 212,
+    "opioids_nostim_deaths": 211,
+    "stim_noopioids_deaths": 92,
+    "noopioids_nostim_deaths": 26
+  },
+  {
+    "state": "Georgia",
+    "year": 2021,
+    "opioids_stim_deaths": 877,
+    "opioids_nostim_deaths": 825,
+    "stim_noopioids_deaths": 549,
+    "noopioids_nostim_deaths": 120
+  },
+  {
+    "state": "Hawaii",
+    "year": 2021,
+    "opioids_stim_deaths": 37,
+    "opioids_nostim_deaths": 40,
+    "stim_noopioids_deaths": 164,
+    "noopioids_nostim_deaths": 15
+  },
+  {
+    "state": "Iowa",
+    "year": 2021,
+    "opioids_stim_deaths": 78,
+    "opioids_nostim_deaths": 161,
+    "stim_noopioids_deaths": 133,
+    "noopioids_nostim_deaths": 28
+  },
+  {
+    "state": "Kansas",
+    "year": 2021,
+    "opioids_stim_deaths": 173,
+    "opioids_nostim_deaths": 258,
+    "stim_noopioids_deaths": 209,
+    "noopioids_nostim_deaths": 33
+  },
+  {
+    "state": "Kentucky",
+    "year": 2021,
+    "opioids_stim_deaths": 1009,
+    "opioids_nostim_deaths": 939,
+    "stim_noopioids_deaths": 271,
+    "noopioids_nostim_deaths": 70
+  },
+  {
+    "state": "Maine",
+    "year": 2021,
+    "opioids_stim_deaths": 269,
+    "opioids_nostim_deaths": 277,
+    "stim_noopioids_deaths": 47,
+    "noopioids_nostim_deaths": 14
+  },
+  {
+    "state": "Maryland",
+    "year": 2021,
+    "opioids_stim_deaths": 1047,
+    "opioids_nostim_deaths": 1468,
+    "stim_noopioids_deaths": 132,
+    "noopioids_nostim_deaths": 107
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2021,
+    "opioids_stim_deaths": 1234,
+    "opioids_nostim_deaths": 1047,
+    "stim_noopioids_deaths": 207,
+    "noopioids_nostim_deaths": 53
+  },
+  {
+    "state": "Michigan",
+    "year": 2021,
+    "opioids_stim_deaths": 1137,
+    "opioids_nostim_deaths": 1362,
+    "stim_noopioids_deaths": 322,
+    "noopioids_nostim_deaths": 141
+  },
+  {
+    "state": "Minnesota",
+    "year": 2021,
+    "opioids_stim_deaths": 456,
+    "opioids_nostim_deaths": 561,
+    "stim_noopioids_deaths": 172,
+    "noopioids_nostim_deaths": 51
+  },
+  {
+    "state": "Nebraska",
+    "year": 2021,
+    "opioids_stim_deaths": 41,
+    "opioids_nostim_deaths": 71,
+    "stim_noopioids_deaths": 41,
+    "noopioids_nostim_deaths": 35
+  },
+  {
+    "state": "Nevada",
+    "year": 2021,
+    "opioids_stim_deaths": 254,
+    "opioids_nostim_deaths": 291,
+    "stim_noopioids_deaths": 352,
+    "noopioids_nostim_deaths": 36
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2021,
+    "opioids_stim_deaths": 69,
+    "opioids_nostim_deaths": 309,
+    "stim_noopioids_deaths": 31,
+    "noopioids_nostim_deaths": 12
+  },
+  {
+    "state": "New Jersey",
+    "year": 2021,
+    "opioids_stim_deaths": 1255,
+    "opioids_nostim_deaths": 1522,
+    "stim_noopioids_deaths": 207,
+    "noopioids_nostim_deaths": 110
+  },
+  {
+    "state": "New Mexico",
+    "year": 2021,
+    "opioids_stim_deaths": 407,
+    "opioids_nostim_deaths": 324,
+    "stim_noopioids_deaths": 227,
+    "noopioids_nostim_deaths": 19
+  },
+  {
+    "state": "North Carolina",
+    "year": 2021,
+    "opioids_stim_deaths": 1787,
+    "opioids_nostim_deaths": 1541,
+    "stim_noopioids_deaths": 428,
+    "noopioids_nostim_deaths": 91
+  },
+  {
+    "state": "Ohio",
+    "year": 2021,
+    "opioids_stim_deaths": 2337,
+    "opioids_nostim_deaths": 2303,
+    "stim_noopioids_deaths": 592,
+    "noopioids_nostim_deaths": 179
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2021,
+    "opioids_stim_deaths": 179,
+    "opioids_nostim_deaths": 259,
+    "stim_noopioids_deaths": 531,
+    "noopioids_nostim_deaths": 45
+  },
+  {
+    "state": "Oregon",
+    "year": 2021,
+    "opioids_stim_deaths": 382,
+    "opioids_nostim_deaths": 356,
+    "stim_noopioids_deaths": 299,
+    "noopioids_nostim_deaths": 46
+  },
+  {
+    "state": "Overall",
+    "year": 2021,
+    "opioids_stim_deaths": 20530,
+    "opioids_nostim_deaths": 21641,
+    "stim_noopioids_deaths": 7498,
+    "noopioids_nostim_deaths": 1884
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2021,
+    "opioids_stim_deaths": 2156,
+    "opioids_nostim_deaths": 2374,
+    "stim_noopioids_deaths": 542,
+    "noopioids_nostim_deaths": 264
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2021,
+    "opioids_stim_deaths": 215,
+    "opioids_nostim_deaths": 169,
+    "stim_noopioids_deaths": 48,
+    "noopioids_nostim_deaths": 16
+  },
+  {
+    "state": "South Dakota",
+    "year": 2021,
+    "opioids_stim_deaths": 10,
+    "opioids_nostim_deaths": 25,
+    "stim_noopioids_deaths": 40,
+    "noopioids_nostim_deaths": 7
+  },
+  {
+    "state": "Utah",
+    "year": 2021,
+    "opioids_stim_deaths": 208,
+    "opioids_nostim_deaths": 204,
+    "stim_noopioids_deaths": 143,
+    "noopioids_nostim_deaths": 33
+  },
+  {
+    "state": "Vermont",
+    "year": 2021,
+    "opioids_stim_deaths": 119,
+    "opioids_nostim_deaths": 101,
+    "stim_noopioids_deaths": 10,
+    "noopioids_nostim_deaths": 8
+  },
+  {
+    "state": "Virginia",
+    "year": 2021,
+    "opioids_stim_deaths": 1060,
+    "opioids_nostim_deaths": 1131,
+    "stim_noopioids_deaths": 277,
+    "noopioids_nostim_deaths": 60
+  },
+  {
+    "state": "West Virginia",
+    "year": 2021,
+    "opioids_stim_deaths": 761,
+    "opioids_nostim_deaths": 485,
+    "stim_noopioids_deaths": 193,
+    "noopioids_nostim_deaths": 19
+  },
+  {
+    "state": "Alaska",
+    "year": 2022,
+    "opioids_stim_deaths": 119,
+    "opioids_nostim_deaths": 71,
+    "stim_noopioids_deaths": 57,
+    "noopioids_nostim_deaths": 9
+  },
+  {
+    "state": "Arizona",
+    "year": 2022,
+    "opioids_stim_deaths": 1023,
+    "opioids_nostim_deaths": 936,
+    "stim_noopioids_deaths": 565,
+    "noopioids_nostim_deaths": 79
+  },
+  {
+    "state": "Arkansas",
+    "year": 2022,
+    "opioids_stim_deaths": 167,
+    "opioids_nostim_deaths": 191,
+    "stim_noopioids_deaths": 127,
+    "noopioids_nostim_deaths": 43
+  },
+  {
+    "state": "Colorado",
+    "year": 2022,
+    "opioids_stim_deaths": 591,
+    "opioids_nostim_deaths": 610,
+    "stim_noopioids_deaths": 387,
+    "noopioids_nostim_deaths": 74
+  },
+  {
+    "state": "Connecticut",
+    "year": 2022,
+    "opioids_stim_deaths": 599,
+    "opioids_nostim_deaths": 749,
+    "stim_noopioids_deaths": 80,
+    "noopioids_nostim_deaths": 36
+  },
+  {
+    "state": "Delaware",
+    "year": 2022,
+    "opioids_stim_deaths": 247,
+    "opioids_nostim_deaths": 243,
+    "stim_noopioids_deaths": 43,
+    "noopioids_nostim_deaths": 3
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2022,
+    "opioids_stim_deaths": 260,
+    "opioids_nostim_deaths": 198,
+    "stim_noopioids_deaths": 88,
+    "noopioids_nostim_deaths": 44
+  },
+  {
+    "state": "Georgia",
+    "year": 2022,
+    "opioids_stim_deaths": 965,
+    "opioids_nostim_deaths": 922,
+    "stim_noopioids_deaths": 556,
+    "noopioids_nostim_deaths": 112
+  },
+  {
+    "state": "Iowa",
+    "year": 2022,
+    "opioids_stim_deaths": 95,
+    "opioids_nostim_deaths": 116,
+    "stim_noopioids_deaths": 139,
+    "noopioids_nostim_deaths": 34
+  },
+  {
+    "state": "Kansas",
+    "year": 2022,
+    "opioids_stim_deaths": 213,
+    "opioids_nostim_deaths": 274,
+    "stim_noopioids_deaths": 208,
+    "noopioids_nostim_deaths": 44
+  },
+  {
+    "state": "Kentucky",
+    "year": 2022,
+    "opioids_stim_deaths": 985,
+    "opioids_nostim_deaths": 844,
+    "stim_noopioids_deaths": 310,
+    "noopioids_nostim_deaths": 73
+  },
+  {
+    "state": "Maine",
+    "year": 2022,
+    "opioids_stim_deaths": 343,
+    "opioids_nostim_deaths": 274,
+    "stim_noopioids_deaths": 52,
+    "noopioids_nostim_deaths": 13
+  },
+  {
+    "state": "Maryland",
+    "year": 2022,
+    "opioids_stim_deaths": 1001,
+    "opioids_nostim_deaths": 1237,
+    "stim_noopioids_deaths": 149,
+    "noopioids_nostim_deaths": 130
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2022,
+    "opioids_stim_deaths": 1293,
+    "opioids_nostim_deaths": 1055,
+    "stim_noopioids_deaths": 230,
+    "noopioids_nostim_deaths": 50
+  },
+  {
+    "state": "Minnesota",
+    "year": 2022,
+    "opioids_stim_deaths": 485,
+    "opioids_nostim_deaths": 543,
+    "stim_noopioids_deaths": 222,
+    "noopioids_nostim_deaths": 41
+  },
+  {
+    "state": "Mississippi",
+    "year": 2022,
+    "opioids_stim_deaths": 232,
+    "opioids_nostim_deaths": 251,
+    "stim_noopioids_deaths": 123,
+    "noopioids_nostim_deaths": 55
+  },
+  {
+    "state": "Missouri",
+    "year": 2022,
+    "opioids_stim_deaths": 683,
+    "opioids_nostim_deaths": 864,
+    "stim_noopioids_deaths": 332,
+    "noopioids_nostim_deaths": 158
+  },
+  {
+    "state": "Nebraska",
+    "year": 2022,
+    "opioids_stim_deaths": 42,
+    "opioids_nostim_deaths": 75,
+    "stim_noopioids_deaths": 33,
+    "noopioids_nostim_deaths": 25
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2022,
+    "opioids_stim_deaths": 133,
+    "opioids_nostim_deaths": 281,
+    "stim_noopioids_deaths": 23,
+    "noopioids_nostim_deaths": 7
+  },
+  {
+    "state": "New Jersey",
+    "year": 2022,
+    "opioids_stim_deaths": 1394,
+    "opioids_nostim_deaths": 1384,
+    "stim_noopioids_deaths": 211,
+    "noopioids_nostim_deaths": 75
+  },
+  {
+    "state": "North Carolina",
+    "year": 2022,
+    "opioids_stim_deaths": 2054,
+    "opioids_nostim_deaths": 1440,
+    "stim_noopioids_deaths": 449,
+    "noopioids_nostim_deaths": 59
+  },
+  {
+    "state": "Ohio",
+    "year": 2022,
+    "opioids_stim_deaths": 2418,
+    "opioids_nostim_deaths": 1946,
+    "stim_noopioids_deaths": 602,
+    "noopioids_nostim_deaths": 171
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2022,
+    "opioids_stim_deaths": 356,
+    "opioids_nostim_deaths": 392,
+    "stim_noopioids_deaths": 500,
+    "noopioids_nostim_deaths": 50
+  },
+  {
+    "state": "Oregon",
+    "year": 2022,
+    "opioids_stim_deaths": 543,
+    "opioids_nostim_deaths": 413,
+    "stim_noopioids_deaths": 294,
+    "noopioids_nostim_deaths": 38
+  },
+  {
+    "state": "Overall",
+    "year": 2022,
+    "opioids_stim_deaths": 21978,
+    "opioids_nostim_deaths": 20087,
+    "stim_noopioids_deaths": 7397,
+    "noopioids_nostim_deaths": 1973
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2022,
+    "opioids_stim_deaths": 2361,
+    "opioids_nostim_deaths": 1984,
+    "stim_noopioids_deaths": 545,
+    "noopioids_nostim_deaths": 240
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2022,
+    "opioids_stim_deaths": 192,
+    "opioids_nostim_deaths": 166,
+    "stim_noopioids_deaths": 52,
+    "noopioids_nostim_deaths": 23
+  },
+  {
+    "state": "Tennessee",
+    "year": 2022,
+    "opioids_stim_deaths": 1695,
+    "opioids_nostim_deaths": 1367,
+    "stim_noopioids_deaths": 538,
+    "noopioids_nostim_deaths": 201
+  },
+  {
+    "state": "Utah",
+    "year": 2022,
+    "opioids_stim_deaths": 206,
+    "opioids_nostim_deaths": 208,
+    "stim_noopioids_deaths": 141,
+    "noopioids_nostim_deaths": 22
+  },
+  {
+    "state": "Vermont",
+    "year": 2022,
+    "opioids_stim_deaths": 128,
+    "opioids_nostim_deaths": 108,
+    "stim_noopioids_deaths": 15,
+    "noopioids_nostim_deaths": 8
+  },
+  {
+    "state": "Virginia",
+    "year": 2022,
+    "opioids_stim_deaths": 1155,
+    "opioids_nostim_deaths": 945,
+    "stim_noopioids_deaths": 326,
+    "noopioids_nostim_deaths": 56
+  }
+]

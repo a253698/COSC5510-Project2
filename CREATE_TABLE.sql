@@ -5,11 +5,11 @@ DROP TABLE IF EXISTS country_submission_count,county_count,fips_code,sex_age_dru
 
 
 CREATE TABLE country_submission_count(
-    sourse    VARCHAR(4)    NOT NULL,
+    source    VARCHAR(4)    NOT NULL,
     month   INT     NOT NULL,
     year   YEAR(4)     NOT NULL,
     jurisdiction_count   INT     NOT NULL,
-    PRIMARY KEY (`month`, `year`, `sourse`)
+    PRIMARY KEY (`month`, `year`, `source`)
 );
 
 CREATE TABLE county_count(
@@ -21,7 +21,7 @@ CREATE TABLE county_count(
 );
 
 CREATE TABLE fips_code(
-    state     INT        NOT NULL,
+    state    INT        NOT NULL,
     county   CHAR(50)   NOT NULL,
     fips     INT     NOT NULL,
     PRIMARY KEY (`fips`)
